@@ -1,7 +1,7 @@
 [![@fiificode's Holopin board](https://holopin.me/fiificode)](https://holopin.io/@fiificode)
 - 👋 Hi, I’m Franklin,
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning React native
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on amazing projects
 - 📫 How to reach me ... fiificode@gmail.com
 
