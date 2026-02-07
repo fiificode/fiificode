@@ -38,9 +38,11 @@ I am a passionate and experienced front-end software developer with a strong foc
    Package Managers:
  > ![](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white)
    ![](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+>  ![](https://img.shields.io/badge/-PNPM-2C8EBB?style=for-the-badge&logo=PNPM&logoColor=white)
    
    Mobile:
  > ![](https://img.shields.io/badge/-ReactNative-02569B?style=for-the-badge&logo=reactnative&logoColor=white)
+> ![](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   
    Design:
  > ![](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
