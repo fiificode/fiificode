@@ -9,7 +9,7 @@ I am a passionate and experienced front-end software developer with a strong foc
 
 
 ---
-- 📝 I’m currently learning React Native with Typescript
+- 📝 I’m currently learning Golang
 - 🔦 Exploring Node/Express backend development 
 - 🔭  I’m currently working on PapForms(A form builder that feels like a conversation. No code, no clutter, just elegant interactions that respect your user's time).
 - 👯  I’m looking to collaborate on amazing projects
